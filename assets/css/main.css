@@ -5292,6 +5292,8 @@ input, select, textarea {
 
 		.spotlight.style2 .content {
 			width: 44.5rem;
+			margin-left: 5rem;
+			margin-right: 5rem;
 			max-width: 100%;
 			z-index: 2;
 		}

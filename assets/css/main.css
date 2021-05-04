@@ -4352,10 +4352,10 @@ input, select, textarea {
 		}
 
 			.banner.style5 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: fill;
+				-webkit-object-fit: fill;
+				-ms-object-fit: fill;
+				object-fit: fill;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
@@ -4531,7 +4531,7 @@ input, select, textarea {
 		flex-shrink: 0;
 		position: absolute;
 		width: 100%;
-		height: auto;
+		height: 100%;
 		top: 0;
 		left: 0;
 		border-radius: 0;
@@ -4539,10 +4539,10 @@ input, select, textarea {
 	}
 
 		.banner.style6 .image img {
-			-moz-object-fit: cover;
-			-webkit-object-fit: cover;
-			-ms-object-fit: cover;
-			object-fit: cover;
+			-moz-object-fit: fill;
+			-webkit-object-fit: fill;
+			-ms-object-fit: fill;
+			object-fit: fill;
 			-moz-object-position: center;
 			-webkit-object-position: center;
 			-ms-object-position: center;
@@ -4552,7 +4552,7 @@ input, select, textarea {
 			top: 0;
 			left: 0;
 			width: 100%;
-			height: auto;
+			height: 100%;
 			border-radius: 0;
 		}
 

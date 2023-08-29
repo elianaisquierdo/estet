@@ -4370,7 +4370,7 @@ input, select, textarea {
 			}
 
 				.banner.style5 .image .logo img {
-					position: absolute;
+					position: relative;
 					width: 40rem;
 					max-width: 100%;
 					object-position: center;
